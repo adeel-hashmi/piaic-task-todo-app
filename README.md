@@ -1,3 +1,6 @@
+![A screenshot of my app](https://github.com/adeel-hashmi/piaic-task-todo-app/blob/main/demo/ss2.PNG)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
